@@ -9,4 +9,4 @@ I'm pretty new to open source. Still figuring out how all this works: publishing
 Making dev tools that do one thing well and is super easy to setup for beginners, No complex stuff.
 
 ---
-*If you're reading this and also just starting out with OSS, you're not the only one figuring it out as you go.* - Some wise man i guess?
+
