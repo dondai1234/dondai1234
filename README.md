@@ -6,7 +6,7 @@ I'm pretty new to open source. Still figuring out how all this works: publishing
 
 
 ### What I'm about
-Making dev tools that do one thing well and is super easy to setup for beginners, No complex stuff.
+Making dev tools that do one thing well and is super easy to setup for beginners.
 
 ---
 
